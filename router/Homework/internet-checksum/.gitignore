@@ -1,0 +1,7 @@
+*.o
+checksum
+std
+std.cpp
+*_output*.txt
+!Makefile
+.DS_Store
